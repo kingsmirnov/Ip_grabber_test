@@ -1,0 +1,10 @@
+{
+  "name": "ip-logger",
+  "version": "1.0.0",
+  "description": "Tiny Node site that logs visitor IPs to visitors.txt, with a notice telling visitors it happens.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT"
+}
